@@ -22,6 +22,8 @@ TODO: Add long description of the pod here.
                        DESC
 
   s.homepage         = 'https://github.com/向明升/PodLocationDemo'
+#  s.homepage         = 'https://github.com/XMSECODE/PodLocationDemo'
+  
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '向明升' => '850794895@qq.com' }

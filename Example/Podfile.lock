@@ -1,0 +1,16 @@
+PODS:
+  - PodLocationDemo (0.1.0)
+
+DEPENDENCIES:
+  - PodLocationDemo (from `../`)
+
+EXTERNAL SOURCES:
+  PodLocationDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodLocationDemo: 5c1960a774f524592f4f1a76aeb3f8593de0efed
+
+PODFILE CHECKSUM: becfe52216cf4a28a26857106449a89b7101051b
+
+COCOAPODS: 1.11.3
